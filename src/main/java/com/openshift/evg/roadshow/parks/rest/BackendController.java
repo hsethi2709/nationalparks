@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Provides information about this backend
  *
- * Created by jmorales on 26/09/16.
+ * Created by jmorales on 26/09/16
  */
 @RequestMapping("/ws/info")
 @RestController
